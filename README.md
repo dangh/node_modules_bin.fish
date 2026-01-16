@@ -1,6 +1,6 @@
 ## node_modules_bin.fish
 
-Auto add $PWD/node_modules/.bin to $PATH so user can run node_modules binary directly in interactive shell.
+Auto add `$PWD/node_modules/.bin` to `$PATH` so user can run node_modules binary directly in interactive shell.
 
 ### Installation
 
